@@ -262,5 +262,4 @@ public class TestCupomFiscal {
 			assertEquals(mensagemEsperada, e.getMessage());
 		}
 	}
-
 }

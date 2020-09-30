@@ -16,7 +16,6 @@ public class CupomFiscal {
 		}
 	}	
 
-
 	public static String Quebra_Linha = System.lineSeparator();
 
 	public static String dadosLojaObjeto(Loja loja) {
